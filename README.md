@@ -15,18 +15,3 @@ SerenityShift is a simulation game in VR technology that treats anxiety by using
 wiki page:
 
 https://github.com/Rehab-Game-Dev/SerenityShift/wiki
-
-youtube video for assignment 1:
-
-
-
-youtube video for assignment 2:
-
-
-
-youtube video for assignment 3:
-
-
-
-youtube video for assignment 4:
-
